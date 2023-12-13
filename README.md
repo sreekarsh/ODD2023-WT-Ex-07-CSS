@@ -278,7 +278,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
 ```
 ## OUTPUT:7(iv):
-4 1 4 2 4 3
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/ab9ee39f-84ca-4e14-b091-01147faffb17)
+
 
 ## Ex-07(v)-Print-friendly CSS
 ## AIM:
@@ -345,7 +347,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
   </html>
 ```
 ## OUTPUT:7(v):
-5 1 5 2
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/bf6ead42-c26f-4dee-a8d0-e8b9d5f02acf)
+
 
 ## Ex-07(vi)-Dark Mode Implementation
 ## AIM:
@@ -409,4 +413,9 @@ Remember to test your website in both light and dark modes to ensure the colors 
   </html>
 ```
  ## OUTPUT:7(vi):
-6 1 6 2
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/c22a8178-e9fe-4edd-b48f-a145d85abf8a)
+
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/133681f6-73ad-44b6-b45b-de54fc88fd2a)
+
+
