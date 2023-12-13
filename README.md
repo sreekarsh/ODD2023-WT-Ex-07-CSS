@@ -78,7 +78,13 @@ Close the HTML structure.
   </html>
 ```
 ## OUTPUT 7(i):
-1 1 1 2 1 3
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/0fb93ea3-fe74-4abf-a06f-14d2a6c1c40c)
+
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/52801cb1-216b-44c4-bdda-a918b130137e)
+
+
 
 ## Ex-07(ii)-CSS
 ## AIM:
@@ -136,7 +142,9 @@ End the HTML document by closing all open tags.
   </html>
 ```
 ## OUTPUT:7(ii):
-2 1 2 2
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/ee576669-eefa-48bf-a1db-0b85a2d4a971)
+
 
 ## Ex-07(iii)-CSS Orientation-based Media Query
 ## AIM:
@@ -195,7 +203,9 @@ Open your HTML file in a web browser and change the orientation of your device t
   </html>
 ```
 ## OUTPUT:7(iii):
-3 1 3 2
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/b9303da1-42ed-4e17-857f-55bbd0ca8524)
+
 
 ## Ex-07(iv)-CSS Responsive Typography
 ## AIM:
