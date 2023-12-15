@@ -291,9 +291,6 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/4af799c5-15a1-4468-a119-c06b4796af93)
 
-![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/a8dd6507-8ac7-4f92-9e3f-91d2e2ee9233)
-
-
 
 
 ## Ex-07(v)-Print-friendly CSS
