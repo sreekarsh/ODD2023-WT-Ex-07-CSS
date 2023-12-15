@@ -148,6 +148,9 @@ End the HTML document by closing all open tags.
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/ee576669-eefa-48bf-a1db-0b85a2d4a971)
 
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/3404ccc2-ff8c-4060-8db6-64d1b78c4b23)
+
+
 
 ## Ex-07(iii)-CSS Orientation-based Media Query
 ## AIM:
