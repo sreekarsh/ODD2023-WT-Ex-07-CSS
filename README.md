@@ -212,6 +212,8 @@ Open your HTML file in a web browser and change the orientation of your device t
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/b9303da1-42ed-4e17-857f-55bbd0ca8524)
 
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/f8bd56ca-5fce-471c-b466-9bc816944036)
+
 
 ## Ex-07(iv)-CSS Responsive Typography
 ## AIM:
@@ -287,6 +289,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/ab9ee39f-84ca-4e14-b091-01147faffb17)
 
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/4af799c5-15a1-4468-a119-c06b4796af93)
+
+
 
 ## Ex-07(v)-Print-friendly CSS
 ## AIM:
@@ -355,6 +360,9 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 ## OUTPUT:7(v):
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/bf6ead42-c26f-4dee-a8d0-e8b9d5f02acf)
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/c8d3836d-528c-465d-80f0-8eb9449c4220)
+
 
 
 ## Ex-07(vi)-Dark Mode Implementation
