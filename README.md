@@ -213,7 +213,8 @@ Open your HTML file in a web browser and change the orientation of your device t
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/b9303da1-42ed-4e17-857f-55bbd0ca8524)
 
-![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/f8bd56ca-5fce-471c-b466-9bc816944036)
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/b6d74cc7-35db-4f8e-a0dc-42227adf1501)
+
 
 
 ## Ex-07(iv)-CSS Responsive Typography
