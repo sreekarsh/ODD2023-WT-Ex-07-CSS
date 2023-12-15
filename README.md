@@ -84,6 +84,9 @@ Close the HTML structure.
 
 ![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/52801cb1-216b-44c4-bdda-a918b130137e)
 
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-07-CSS/assets/139841918/2cc7f877-298f-472e-aed9-e086dba79024)
+
+
 
 
 ## Ex-07(ii)-CSS
